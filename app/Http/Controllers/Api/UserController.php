@@ -25,7 +25,7 @@ class UserController extends Controller
                 'status' => 1,
             ]
             );
-        
+                // oaiejdsfoiig
     }
     public function login(Request $request){
         $validateData = $request->validate([
